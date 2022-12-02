@@ -1,6 +1,6 @@
 import { Monster } from '../../App';
 
-import Card from '../card/card.component.tsx';
+import Card from '../card/card.component';
 import './card-list.styles.css';
 
 type CardListProps = {
